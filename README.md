@@ -1,4 +1,4 @@
-# 23343008_Praktikum-Pemrograman-Jaringan
+# 23343019_Praktikum-Pemrograman-Jaringan
 
 # 📘 Pemrograman Berbasis Jaringan – Node.js
 
@@ -38,6 +38,6 @@ Setiap jobsheet disusun secara bertahap agar pemahaman konsep server-side JavaSc
 
 ---
 
-**🧑‍💻 Dibuat oleh:** M. Ilham  
+**🧑‍💻 Dibuat oleh:** Syadza Oktifani 
 **📅 Tahun:** 2025  
 **🏫 Universitas:** Universitas Negeri Padang
