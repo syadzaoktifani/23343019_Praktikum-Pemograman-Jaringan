@@ -38,6 +38,6 @@ Setiap jobsheet disusun secara bertahap agar pemahaman konsep server-side JavaSc
 
 ---
 
-**🧑‍💻 Dibuat oleh:** M. Ilham  
+**🧑‍💻 Dibuat oleh:** Syadza Oktifani 
 **📅 Tahun:** 2025  
 **🏫 Universitas:** Universitas Negeri Padang
