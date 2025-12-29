@@ -23,7 +23,7 @@ app.get('', (_, res) => {
     res.render('index', {
         title: 'Aplikasi Cek Cuaca',
         judul: 'Aplikasi Cek Cuaca',
-        nama: 'M Ilham'
+        nama: 'Syadza Oktifani'
     });
 });
 
@@ -31,7 +31,7 @@ app.get('/bantuan', (_, res) => {
     res.render('bantuan', {
         title: 'Bantuan',
         judul: 'Bantuan',
-        nama: 'M Ilham',
+        nama: 'Syadza Oktifani',
         teksBantuan: 'ini adalah teks bantuan'
     });
 });
@@ -64,7 +64,7 @@ app.get('/tentang', (_, res) => {
     res.render('tentang', {
         title: 'Tentang',
         judul: 'Tentang Saya',
-        nama: 'M Ilham',
+        nama: 'Syadza Oktifani',
     });
 });
 
@@ -72,7 +72,7 @@ app.get('/bantuan/*', (_, res) => {
     res.render('404', {
         title: '404',
         judul: '404',
-        nama: 'M. Ilham',
+        nama: 'Syadza Oktifani',
         pesanKesalahan: 'Artikel yang dicari tidak ditemukan.'
     });
 });
@@ -81,7 +81,7 @@ app.get('*', (_, res) => {
     res.render('404', {
         title: '404',
         judul: '404',
-        nama: 'M. Ilham',
+        nama: 'Syadza Oktifani',
         pesanKesalahan: 'Halaman tidak ditemukan.'
     });
 });
