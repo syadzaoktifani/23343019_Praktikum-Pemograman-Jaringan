@@ -1,5 +1,5 @@
 // const fs = require('fs');
-// fs.writeFileSync('catatan.txt', 'Nama saya M Ilham');
+// fs.writeFileSync('catatan.txt', 'Nama saya Syadza Oktifani');
 // fs.appendFileSync('catatan.txt', 'Saya tinggal di padang');
 
 
@@ -13,7 +13,7 @@
 // const ambilCatatan = require('./catatan.js');
 // const pesan = ambilCatatan();
 // console.log(pesan);
-// console.log(validator.isURL('https://hammPa.com'));
+// console.log(validator.isURL('https://syadzaoktifani.com'));
 
 
 

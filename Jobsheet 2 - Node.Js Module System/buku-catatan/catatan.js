@@ -1,7 +1,7 @@
 const fs = require('fs');
 const chalk = require('chalk');
 
-const ambilCatatan = function(){ return 'Ini Catatan M Ilham'; }
+const ambilCatatan = function(){ return 'Ini Catatan Syadza Oktifani'; }
 
 const tambahCatatan = function(judul, isi){
     const catatan = muatCatatan();
