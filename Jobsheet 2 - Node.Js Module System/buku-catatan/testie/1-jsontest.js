@@ -2,7 +2,7 @@ const fs = require('fs');
 
 // const book = {
 //     judul: 'Pemrograman Jaringan',
-//     penulis: 'M Ilham'
+//     penulis: 'Syadza Oktifani'
 // };
 
 // const bookJSON = JSON.stringify(book);
