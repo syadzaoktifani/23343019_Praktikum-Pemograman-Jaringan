@@ -6,7 +6,7 @@
 
 ---
 
-## 👤 Profil Mahasiswa
+## 👤 Profil 
 
 | Atribut | Detail |
 | :--- | :--- |
