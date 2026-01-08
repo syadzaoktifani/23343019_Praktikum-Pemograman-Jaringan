@@ -10,5 +10,5 @@ Dari jobsheet ini, saya memahami bahwa version control dan deployment merupakan 
 
 Saya juga memahami alur deployment aplikasi Node.js dari lingkungan lokal ke server produksi menggunakan layanan cloud. Dengan melakukan deployment ke Vercel, saya belajar bagaimana menyesuaikan konfigurasi port, script aplikasi, serta memastikan aplikasi berjalan stabil di environment produksi.
 
-Melalui jobsheet ini, saya tidak hanya mampu membuat aplikasi berjalan secara lokal, tetapi juga mempublikasikannya agar dapat diakses oleh pengguna secara online, sehingga memberikan pemahaman menyeluruh tentang workflow pengembangan aplikasi backend mulai dari development, version control, hingga deployment.
+Melalui jobsheet ini, saya tidak hanya mampu membuat aplikasi berjalan secara lokal, tetapi juga mempublikasikannya agar dapat diakses oleh pengguna secara online, sehingga memberikan pemahaman menyeluruh tentang workflow pengembangan aplikasi backend mulai dari development, version control, hingga deployment
 
